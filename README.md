@@ -9,7 +9,7 @@ Return the smallest character in `letters` that is lexicographically greater tha
 
 #### ***Example 1:***
 
-*Input:* `letters = ['c', 'f', 'j'], target = "a"`
+*Input:* `letters = ['c', 'f', 'j']`, `target = 'a'`
 
 *Output:* `'c'`
 
@@ -17,5 +17,9 @@ Return the smallest character in `letters` that is lexicographically greater tha
 
 #### ***Example 2:***
 
-*Input:* `.`
+*Input:* `letters = ['c', 'f', 'j']`, `target = 'c'`
+
+*Output:* `'f'`
+
+*Explanation:* The smallest character that is lexicographically greater than 'c' in letters is 'f'.
 
