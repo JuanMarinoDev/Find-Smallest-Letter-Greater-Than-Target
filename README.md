@@ -23,3 +23,10 @@ Return the smallest character in `letters` that is lexicographically greater tha
 
 *Explanation:* The smallest character that is lexicographically greater than 'c' in letters is 'f'.
 
+#### ***Example 3:***
+
+*Input:* `letters = ["x","x","y","y"]`, `target = 'z'`
+
+*Output:* `'x'`
+
+*Explanation:* There are no characters in letters that is lexicographically greater than 'z' so we return letters[0].
